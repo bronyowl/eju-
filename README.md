@@ -1,5 +1,15 @@
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [经济（理解为最重要）](#%E7%BB%8F%E6%B5%8E%E7%90%86%E8%A7%A3%E4%B8%BA%E6%9C%80%E9%87%8D%E8%A6%81)
+  - [经济基础](#%E7%BB%8F%E6%B5%8E%E5%9F%BA%E7%A1%80)
+  - [微观经济](#%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E)
+  - [宏观经济](#%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E)
+  - [日本经济史](#%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E5%8F%B2)
+  - [国际经济](#%E5%9B%BD%E9%99%85%E7%BB%8F%E6%B5%8E)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 经济（理解为最重要）
 

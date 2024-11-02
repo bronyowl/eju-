@@ -1,4 +1,5 @@
-[TOC]
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 ## 经济（理解为最重要）
 

@@ -1,3 +1,8 @@
+permissions:
+  pull-requests: write
+  issues: write
+  repository-projects: write
+
 on: push
 name: TOC Generator
 jobs:

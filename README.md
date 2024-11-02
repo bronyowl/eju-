@@ -118,7 +118,7 @@
 
     - 银行
 
-      <img src="C:\Users\A1870\AppData\Roaming\Typora\typora-user-images\image-20241102151354668.png" alt="image-20241102151354668" style="zoom: 50%;" />
+      <img src="https://cdn.jsdelivr.net/gh/bronyowl/typopicbed@main/img/image-20241102151354668.png" alt="image-20241102151354668" style="zoom: 50%;" />
 
     - 日本银行
 
